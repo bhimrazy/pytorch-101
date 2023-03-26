@@ -1,0 +1,4 @@
+site_name: PyTorch 101
+theme:
+  name: material
+
